@@ -1,0 +1,17 @@
+{
+    "name": "gallna/UPnP-Description",
+    "require": {
+        "zendframework/zend-uri": "2.4.*"
+    },
+    "authors": [
+        {
+            "name": "Tomasz Jonik",
+            "email": "tom.jonik@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kemer\\UPnP\\Description\\": "src/Kemer/UPnP/Description"
+        }
+    }
+}
